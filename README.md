@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007bff&size=28&center=true&vCenter=true&width=680&height=55&lines=Hi%2C+I'm+Poorti+%F0%9F%91%8B;Creative+Software+Developer;Web+Developer;AI%2FML+Enthusiast;3D+Web+%26+Motion+Lover;Open+Source+Contributor" alt="Typing intro"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Poortigupta">
     <img src="https://komarev.com/ghpvc/?username=Poortigupta&style=flat-square&color=0A66C2" alt="profile views"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/poorti-gupta-b11529282/">
@@ -101,18 +101,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poortigupta&show_icons=true&line_height=20&title_color=0A0FFF&icon_color=0A0FFF&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Poorti's GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Poortigupta&theme=dark&background=000000" alt="Poorti's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poortigupta&theme=github_dark&hide_border=true" alt="Profile Details" width="70%"/>
-</p>
-
----
 
 ## 📬 Get in Touch
 
