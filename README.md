@@ -1,3 +1,8 @@
+# <p align="center">Hi there, I'm Poorti 👋</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="waving hand" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007bff&size=28&center=true&vCenter=true&width=680&height=55&lines=Hi%2C+I'm+Poorti+%F0%9F%91%8B;Creative+Software+Developer;Web+Developer;AI%2FML+Enthusiast;3D+Web+%26+Motion+Lover;Open+Source+Contributor" alt="Typing intro"/>
 </p>
