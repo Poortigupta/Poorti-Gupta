@@ -78,26 +78,26 @@
     <td width="33%" align="center">
       <strong>Subscriptify — Website Subscription Checker</strong><br/>
       <a href="https://github.com/poortigupta/subscriptify">
-        <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-1.jpg" alt="Subscriptify" width="100%"/>
+        <!-- <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-1.jpg" alt="Subscriptify" width="100%"/> -->
       </a>
       <br/>
       <a href="https://github.com/poortigupta/subscriptify">Code</a>
     </td>
     <td width="33%" align="center">
-      <strong>Jeevni — Healthcare Services (Hackathon)</strong><br/>
-      <a href="https://github.com/poortigupta/jeevni">
-        <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-2.jpg" alt="Jeevni" width="100%"/>
+      <strong>Samadhan – AI-Powered Civic Issue Resolution Platform</strong><br/>
+      <a href="https://github.com/poortigupta/Samadhan_Frontend">
+        <!-- <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-2.jpg" alt="Jeevni" width="100%"/> -->
       </a>
       <br/>
-      <a href="https://github.com/poortigupta/jeevni">Code</a> • <a href="https://jeevni-healthcare.vercel.app">Live</a>
+      <a href="https://github.com/poortigupta/Samadhan_Frontend">Code</a> • <a href="https://Samadhan.wine.vercel.app/">Live</a>
     </td>
     <td width="33%" align="center">
       <strong>Portfolio 3D — This Website</strong><br/>
       <a href="https://github.com/Poortigupta/Portfolio3D">
-        <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-6.jpg" alt="Portfolio3D" width="100%"/>
+        <!-- <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-6.jpg" alt="Portfolio3D" width="100%"/> -->
       </a>
       <br/>
-      <a href="https://github.com/Poortigupta/Portfolio3D">Code</a>
+      <a href="https://github.com/Poortigupta/Portfolio3D">Code</a> • <a href="https://portfoliopoorti-gupta-9842dsjyg.vercel.app/">Live</a>
     </td>
   </tr>
 </table>
