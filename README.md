@@ -20,7 +20,7 @@
   <a href="mailto:poortigupta2309@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/PoortiGupta">
+  <a href="[https://twitter.com/PoortiGupta](https://x.com/poortigupt72769?t=8WDIBpmQ35BGdBLDWxvOzg&s=09)">
     <img src="https://img.shields.io/badge/Twitter-@PoortiGupta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
@@ -77,11 +77,11 @@
   <tr>
     <td width="33%" align="center">
       <strong>Subscriptify — Website Subscription Checker</strong><br/>
-      <a href="https://github.com/poortigupta/subscriptify">
+      <a href="https://github.com/Poortigupta/Subscriptify-Web-Subscription-Checker">
         <!-- <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-1.jpg" alt="Subscriptify" width="100%"/> -->
       </a>
       <br/>
-      <a href="https://github.com/poortigupta/subscriptify">Code</a>
+      <a href="https://github.com/Poortigupta/Subscriptify-Web-Subscription-Checker">Code</a>
     </td>
     <td width="33%" align="center">
       <strong>Samadhan – AI-Powered Civic Issue Resolution Platform</strong><br/>
@@ -89,7 +89,7 @@
         <!-- <img src="https://raw.githubusercontent.com/Poortigupta/Portfolio3D/main/public/project-2.jpg" alt="Jeevni" width="100%"/> -->
       </a>
       <br/>
-      <a href="https://github.com/poortigupta/Samadhan_Frontend">Code</a> • <a href="https://Samadhan.wine.vercel.app/">Live</a>
+      <a href="https://github.com/poortigupta/Samadhan_Frontend">Code</a> • <a href="https://samadhan-wine.vercel.app/">Live</a>
     </td>
     <td width="33%" align="center">
       <strong>Portfolio 3D — This Website</strong><br/>
