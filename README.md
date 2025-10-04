@@ -20,7 +20,7 @@
   <a href="mailto:poortigupta2309@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://twitter.com/PoortiGupta](https://x.com/poortigupt72769?t=8WDIBpmQ35BGdBLDWxvOzg&s=09)">
+  <a href="https://x.com/poortigupt72769?t=8WDIBpmQ35BGdBLDWxvOzg&s=09">
     <img src="https://img.shields.io/badge/Twitter-@PoortiGupta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
